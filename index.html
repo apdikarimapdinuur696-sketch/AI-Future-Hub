@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>AI Future Hub</title>
+
+<style>
+
+body {
+    background: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: #222;
+    line-height: 1.6;
+}
+
+/* Header & Navigation Styles */
+header {
+    background: black;
+    color: white;
+    padding: 35px 20px 20px 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+nav {
+    background: #111;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: gray;
+}
+
+/* Hero Section Styles */
+.hero {
+    text-align: center;
+    padding: 40px;
+    background: #f9f9f9;
+    border-bottom: 1px solid #eee;
+}
+
+.hero h2 {
+    border-left: none;
+    padding-left: 0;
+    font-size: 28px;
+}
+
+button {
+    background: black;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 20px;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background: #333;
+}
+
+/* Container & Card Styles */
+.container {
+    padding: 20px;
+}
+
+.card {
+    background: #f5f5f5;
+    padding: 25px;
+    margin: 25px 0;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+h2 {
+    color: black;
+    border-left: 5px solid black;
+    padding-left: 10px;
+}
+
+h3 {
+    color: #333;
+}
+
+p, li {
+    font-size: 17px;
+}
+
+img {
+    display: block;
+    width: 300px;
+    max-width: 90%;
+    border-radius: 20px;
+    margin: 20px auto;
+}
+
+ul {
+    padding: 20px;
+}
+
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<h1>🤖 Artificial Intelligence (AI)</h1>
+
+<h2>The Future of Technology</h2>
+
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#uses">Uses</a>
+    <a href="#careers">Careers</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="hero">
+
+    <h2>Explore The World Of Artificial Intelligence</h2>
+
+    <p>
+    Discover how AI is changing smartphones, healthcare,
+    business, education and the future.
+    </p>
+
+    <button>Start Learning AI</button>
+
+</div>
+
+
+<div class="container">
+
+
+<div class="card">
+
+<img src="ai-main.jpg" alt="Artificial Intelligence">
+
+<h2>What is Artificial Intelligence (AI)?</h2>
+
+<p>
+Artificial Intelligence (AI) is a technology that allows computers and machines
+to perform tasks that normally require human intelligence.
+</p>
+
+<ul>
+<li>Understanding human language</li>
+<li>Learning from data</li>
+<li>Making decisions</li>
+<li>Recognizing images</li>
+<li>Creating new content</li>
+</ul>
+
+</div>
+
+
+
+<div class="card">
+
+<img src="ai-brain.jpg" alt="AI Brain">
+
+<h2>How Does AI Work?</h2>
+
+<h3>1. Data</h3>
+
+<p>
+AI needs information to learn. Thousands of images and information can be used
+to teach AI.
+</p>
+
+
+<h3>2. Algorithm</h3>
+
+<p>
+Algorithms help AI understand and process data.
+</p>
+
+
+<h3>3. Model</h3>
+
+<p>
+AI creates a model that can predict answers and make decisions.
+</p>
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>📚 History of AI</h2>
+
+<img src="ai-history.jpg" alt="AI History">
+
+<ul>
+<li>1950: Scientists started the idea of thinking machines.</li>
+<li>1956: The term Artificial Intelligence was created.</li>
+<li>1997: Computer defeated a famous chess champion.</li>
+<li>2010+: Machine Learning and Deep Learning grew rapidly.</li>
+</ul>
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>🧩 Types of AI</h2>
+
+
+<h3>1. Narrow AI</h3>
+
+<p>
+AI designed for one specific task.
+Examples: Face ID, Google Translate, ChatGPT.
+</p>
+
+
+<h3>2. General AI</h3>
+
+<p>
+AI that can understand many tasks like humans. It has not been achieved yet.
+</p>
+
+
+<h3>3. Super AI</h3>
+
+<p>
+A future idea of AI that could become smarter than humans.
+</p>
+
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>⚙️ Main Areas of AI</h2>
+
+
+<h3>Machine Learning</h3>
+
+<p>
+AI learns from data and improves its performance.
+</p>
+
+
+<h3>Deep Learning</h3>
+
+<p>
+A powerful type of AI that uses neural networks.
+</p>
+
+
+<h3>Natural Language Processing (NLP)</h3>
+
+<p>
+AI that understands human languages, such as ChatGPT.
+</p>
+
+
+<h3>Computer Vision</h3>
+
+<p>
+AI that understands images and videos.
+</p>
+
+
+<img src="robot-ai.jpg" alt="AI Robot">
+
+
+</div>
+
+
+
+
+<div class="card" id="uses">
+
+<h2>🌍 Uses of Artificial Intelligence (AI)</h2>
+
+
+<h3>📱 AI in Smartphones</h3>
+
+<p>
+AI has made modern smartphones much smarter.
+Here are some ways AI is used in mobile devices:
+</p>
+
+<ul>
+<li>
+<strong>Face Unlock:</strong> AI recognizes the user's face to securely unlock the phone.
+</li>
+
+<li>
+<strong>AI Camera:</strong> AI enhances photo quality, lighting, colors, and recognizes scene objects.
+</li>
+
+<li>
+<strong>Voice Assistant:</strong> AI understands natural human voice commands (e.g., Google Assistant, Siri).
+</li>
+
+<li>
+<strong>Keyboard Prediction:</strong> AI predicts the next word you are going to type.
+</li>
+
+<li>
+<strong>Battery Optimization:</strong> AI learns your usage patterns to improve battery life.
+</li>
+
+<li>
+<strong>Security:</strong> AI detects unusual activity and protects against security threats.
+</li>
+
+</ul>
+
+
+
+<h3>🏥 AI in Healthcare</h3>
+
+<p>
+AI assists doctors in diagnosing diseases and finding optimal treatments.
+</p>
+
+<ul>
+
+<li>
+Analyzing medical imaging such as X-rays and MRIs.
+</li>
+
+<li>
+Detecting diseases at an early stage.
+</li>
+
+<li>
+Assisting in drug discovery and medical research.
+</li>
+
+<li>
+Powering robotic systems during surgical procedures.
+</li>
+
+</ul>
+
+
+
+<h3>🚗 AI in Transportation</h3>
+
+<p>
+AI is transforming the way people travel and transport goods.
+</p>
+
+<ul>
+
+<li>
+Self-driving and autonomous vehicles.
+</li>
+
+<li>
+Advanced safety features like collision detection.
+</li>
+
+<li>
+Smart route planning and traffic congestion reduction.
+</li>
+
+</ul>
+
+
+
+<h3>🏦 AI in Banking & Finance</h3>
+
+<ul>
+
+<li>
+<strong>Fraud Detection:</strong> Identifying suspicious transaction patterns in real time.
+</li>
+
+<li>
+Customer support automation through intelligent Chatbots.
+</li>
+
+<li>
+Financial analysis and risk assessment.
+</li>
+
+</ul>
+
+
+
+<h3>🎮 AI in Gaming</h3>
+
+<ul>
+
+<li>
+Creating smart Non-Player Characters (NPCs) that adapt to human behavior.
+</li>
+
+<li>
+Enhancing real-time graphics rendering and visuals.
+</li>
+
+<li>
+Generating dynamic game environments and vast open worlds.
+</li>
+
+</ul>
+
+
+
+<h3>🎨 AI in Creativity</h3>
+
+<ul>
+
+<li>
+Generating original artwork and images from text prompts.
+</li>
+
+<li>
+Writing essays, stories, and creative content.
+</li>
+
+<li>
+Composing music and synthesizing realistic voices.
+</li>
+
+<li>
+Automating video editing and post-production.
+</li>
+
+</ul>
+
+
+
+<h3>🏢 AI in Business</h3>
+
+<ul>
+
+<li>
+<strong>Automation:</strong> Streamlining repetitive workplace tasks automatically.
+</li>
+
+<li>
+Processing and analyzing complex business data.
+</li>
+
+<li>
+Enhancing 24/7 automated customer service.
+</li>
+
+</ul>
+
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>✅ Advantages of AI</h2>
+
+<ul>
+
+<li>Faster problem solving</li>
+
+<li>Reduces human mistakes</li>
+
+<li>Works 24/7 without tiredness</li>
+
+<li>Helps people make better decisions</li>
+
+<li>Improves technology and innovation</li>
+
+</ul>
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>🛠️ Popular AI Tools</h2>
+
+<ul>
+
+<li>ChatGPT - AI Assistant</li>
+
+<li>Google Gemini - AI Search and Help</li>
+
+<li>Microsoft Copilot - AI Productivity</li>
+
+<li>Midjourney - AI Image Creation</li>
+
+<li>GitHub Copilot - AI Programming Assistant</li>
+
+</ul>
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>🔐 AI & Cybersecurity</h2>
+
+<p>
+AI helps protect computers, phones and networks from cyber threats.
+</p>
+
+<ul>
+
+<li>Detecting viruses and malware</li>
+
+<li>Finding suspicious activities</li>
+
+<li>Protecting user data</li>
+
+<li>Improving online security</li>
+
+</ul>
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>🤖 Popular AI Examples</h2>
+
+<ul>
+
+<li>OpenAI → ChatGPT</li>
+
+<li>Google → Gemini</li>
+
+<li>Microsoft → Copilot</li>
+
+<li>NVIDIA → AI Hardware</li>
+
+</ul>
+
+</div>
+
+
+
+
+<div class="card" id="careers">
+
+<h2>💼 AI Careers</h2>
+
+<ul>
+
+<li>AI Engineer</li>
+
+<li>Machine Learning Engineer</li>
+
+<li>Data Scientist</li>
+
+<li>Robotics Engineer</li>
+
+<li>AI Researcher</li>
+
+<li>Software Developer</li>
+
+</ul>
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>⚠️ Challenges of AI</h2>
+
+<ul>
+
+<li>Job displacement and workplace shifts</li>
+
+<li>Spread of misinformation and deepfakes</li>
+
+<li>Data privacy and security concerns</li>
+
+<li>Potential misuse of automated tools</li>
+
+</ul>
+
+</div>
+
+
+
+
+<div class="card">
+
+<h2>🚀 Future of AI</h2>
+
+<p>
+The future of AI promises smarter robotics, groundbreaking medical discoveries,
+personalized learning experiences, and highly advanced software systems.
+</p>
+
+</div>
+
+
+
+
+<div class="card" id="contact">
+
+<h2>📩 Contact</h2>
+
+<p>
+Created by: Apdikarim AI Lab 🚀
+</p>
+
+<p>
+Learning AI, Web Development & Cybersecurity.
+</p>
+
+</div>
+
+
+
+</div>
+
+
+
+<footer>
+
+<h3>Created by: Apdikarim AI Lab 🚀</h3>
+
+</footer>
+
+
+
+</body>
+
+</html>
